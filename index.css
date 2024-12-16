@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.e-logo {
+    width: 100px;
+    height: 80px;
+}
+
+.image-style {
+    height: 250px;
+}
+
+.home {
+    background-image: url("https://res.cloudinary.com/dve8r06ul/image/upload/v1734343056/eCommerce-Website-Components-photo_ybkyzm.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+
+}
+
+.heading {
+    color: black;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Roboto";
+
+}
+
+.container1 {
+    height: 10vh;
+}
+
+.button {
+    width: 150px;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 8px;
+    font-size: 20px;
+    border: none;
+}
+
+.heading2 {
+    padding: 50px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.product {
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+
+}
+
+.card {
+    background-color: #e3e1e1;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.image-style {
+    border-radius: 10px;
+}
+
+.para {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.product-link {
+    padding: 10px;
+    color: black;
+    font-size: 15px;
+}
+
+.heading3 {
+    padding-left: 50px;
+}
+
+.para1 {
+    font-size: 20px;
+    align-content: center;
+    padding: 30px;
+}
+
+.image-style1 {
+    width: 70px;
+    margin: 30px;
+}
+
+.footer-section {
+    background-color: #e3e1e1;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
